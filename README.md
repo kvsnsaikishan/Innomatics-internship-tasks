@@ -1,7 +1,3 @@
-# **Innomatics Python Tasks**
-
----
-
 # Innomatics Python Tasks
 
 This repository contains all my Data Science assignments completed during training at **Innomatics Research Labs**.
@@ -111,4 +107,4 @@ python filename.py
 
 ### **Option C — Direct Execution in an IDE**
 
-Supported by: VS Code, PyCharm, Jupyter Notebook, etc.
+Supported by: VS Code, PyCharm, Jupyter Notebook,#
