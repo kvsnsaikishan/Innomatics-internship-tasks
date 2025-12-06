@@ -1,144 +1,127 @@
 # **Innomatics Python Tasks**
 
-This repository contains all my Python assignments completed as part of the Innomatics training program.
-`
+---
+
+# Innomatics Python Tasks
+
+This repository contains all my Python assignments completed during training at **Innomatics Research Labs**.
+The work is organized into structured task folders covering both basic and advanced Python concepts.
 
 ---
 
-📌 Project Structure
+## 📁 Project Structure
 
+```
 Innomatics-Python-Tasks/
 │
 ├── Task-1-Basic-Python/
-│   ├── 1_if_else.py
-│   ├── 2_arithmetic_operators.py
-│   ├── 3_python_division.py
-│   ├── 4_python_loops.py
-│   ├── 5_leap_year_function.py
-│   ├── 6_print_function.py
-│   └── 7_running_sum_array.py
+│   ├── Problem_1.py
+│   ├── Problem_2.py
+│   ├── Problem_3.py
+│   ├── Problem_4.py
+│   ├── Problem_5.py
+│   ├── Problem_6.py
+│   └── Problem_7.py
 │
 ├── Task-2-Advanced-Python/
-│   ├── 1_running_sum_1d_array.py
-│   ├── 2_shuffle_the_array.py
-│   └── 3_kids_with_candies.py
+│   ├── LeetCode_1480_RunningSum.py
+│   ├── LeetCode_1470_ShuffleArray.py
+│   └── LeetCode_1431_KidsWithCandies.py
 │
 └── README.md
-
+```
 
 ---
 
-📌 List of Programs
+## 📚 List of Programs
 
-Task 1: Basic Python (7 Problems)
+### **Task 1: Basic Python (7 Problems)**
 
-1. If-Else Conditions
+Covers foundational Python programming:
 
-
-2. Arithmetic Operators
-
-
-3. Python Division
-
-
-4. Loops & Squaring Numbers
-
-
+1. Arithmetic Operators
+2. Python Division
+3. Print Function
+4. Python Loops
 5. Leap Year Function
-
-
-6. Print Function (1 to n concatenation)
-
-
-7. Running Sum of an Array (Custom version)
-
-
-
+6. Conditional Logic (Weird/Not Weird)
+7. Simple Input/Output Based Problems
 
 ---
 
-Task 2: Advanced Python (3 LeetCode Problems)
+### **Task 2: Advanced Python (3 LeetCode Problems)**
 
-1. 1480 – Running Sum of 1D Array
+Includes algorithmic challenges:
 
-
-2. 1470 – Shuffle the Array
-
-
-3. 1431 – Kids With the Greatest Number of Candies
-
-
-
+* **1480:** Running Sum of 1D Array
+* **1470:** Shuffle the Array
+* **1431:** Kids With the Greatest Number of Candies
 
 ---
 
-📌 Skills Demonstrated
+## 🧠 Skills Demonstrated
 
-Writing clean and structured Python code
-
-Understanding of:
-
-Conditional statements (if-else)
-
-Loops (for, while)
-
-Functions and return values
-
-List operations and indexing
-
-In-place updates vs. building new lists
-
-
-Applying basic problem-solving patterns
-
-Solving LeetCode Easy problems
-
-Using Google Colab / IDE / LeetCode editor
-
-Testing code with sample inputs and expected outputs
-
-Following assignment instructions professionally
-
-
+* Python fundamentals
+* Functions & conditionals
+* Loops (for & while)
+* List operations
+* Input/output handling
+* Problem-solving & algorithmic thinking
+* Writing modular, clean, reusable code
+* Translating logic into efficient Python implementations
 
 ---
 
-📌 Instructions Followed
+## 📌 Instructions Followed
 
-Each task was implemented strictly according to the assignment:
-
-✔ No use of restricted functions or shortcuts
-✔ Output format matched exactly as required
-✔ Logic implemented step-by-step
-✔ LeetCode problems structured inside a class Solution:
-✔ Tested all solutions with given examples
-
+* Consistent folder structure for all tasks
+* Code written in a clean, readable, and modular style
+* No plagiarism — all logic rewritten from scratch
+* Tested solutions in Google Colab and local Python
+* Followed exact rules for each assignment (Innomatics + LeetCode formats)
 
 ---
 
-📌 How to Run Any Program
+## ▶️ How to Run Any Program
 
-Option 1: Run in Terminal
+### **Option A — Using Python on your system**
 
+1. Open a terminal
+2. Navigate to the folder containing the file
+3. Run:
+
+```
 python filename.py
+```
 
-Option 2: Run in VS Code / PyCharm
+---
 
-Open the file
+### **Option B — Running in Google Colab**
 
-Click Run
+1. Upload the `.py` file to Colab
+2. Add a cell:
 
+```python
+!python filename.py
+```
 
-Option 3: Run in Google Colab
+3. Run the cell
 
-# For testing functions
-solution = Solution()
-print(solution.functionName(input_values))
+---
 
-Option 4: Run LeetCode Code Locally
+### **Option C — Direct Execution in an IDE**
 
-Add this at the bottom of the file:
+Supported by: VS Code, PyCharm, Jupyter Notebook, etc.
 
-if __name__ == "__main__":
-    obj = Solution()
-    print(obj.functionName(test_input))
+---
+
+If you want, I can also add:
+
+✅ Badges
+✅ Screenshots section
+✅ Project description summary
+✅ Future tasks roadmap
+✅ Credits section
+
+Just say *"add more"* and specify what you want.
+
