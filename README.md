@@ -112,16 +112,3 @@ python filename.py
 ### **Option C — Direct Execution in an IDE**
 
 Supported by: VS Code, PyCharm, Jupyter Notebook, etc.
-
----
-
-If you want, I can also add:
-
-✅ Badges
-✅ Screenshots section
-✅ Project description summary
-✅ Future tasks roadmap
-✅ Credits section
-
-Just say *"add more"* and specify what you want.
-
