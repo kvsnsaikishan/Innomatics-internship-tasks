@@ -1,4 +1,4 @@
-# Innomatics Python Tasks
+# Innomatics Data Science Internship Tasks
 
 This repository contains all my Data Science assignments completed during training at **Innomatics Research Labs**.
 The work is organized into structured task folders covering both basic and advanced Python concepts.
