@@ -1,14 +1,14 @@
 # Innomatics Data Science Internship Tasks
 
-This repository contains all my Data Science assignments completed during training at **Innomatics Research Labs**.
-The work is organized into structured task folders covering both basic and advanced Python concepts.
+This repository contains all my **Data Science internship assignments** completed during training at **Innomatics Research Labs**.
+The tasks are organized in a structured manner, covering Python programming and Exploratory Data Analysis (EDA).
 
 ---
 
 ## 📁 Project Structure
 
 ```
-Innomatics-Python-Tasks/
+Innomatics-Data-Science-Tasks/
 │
 ├── Task-1-Basic-Python/
 │   ├── Problem_1.py
@@ -24,87 +24,101 @@ Innomatics-Python-Tasks/
 │   ├── LeetCode_1470_ShuffleArray.py
 │   └── LeetCode_1431_KidsWithCandies.py
 │
+├── Task-3-EDA-Basics/
+│   └── EDA_Task_1.ipynb
+│
+├── Task-4-EDA-Advanced/
+│   └── EDA_Task_2.ipynb
+│
 └── README.md
 ```
 
 ---
 
-## 📚 List of Programs
+## 📚 List of Tasks
 
-### **Task 1: Basic Python (7 Problems)**
+### Task 1: Basic Python
 
-Covers foundational Python programming:
+Covers core Python fundamentals:
 
-1. Arithmetic Operators
-2. Python Division
-3. Print Function
-4. Python Loops
-5. Leap Year Function
-6. Conditional Logic (Weird/Not Weird)
-7. Simple Input/Output Based Problems
+* Arithmetic operators
+* Python division
+* Print function
+* Loops
+* Leap year logic
+* Conditional statements
+* Input and output handling
 
 ---
 
-### **Task 2: Advanced Python (3 LeetCode Problems)**
+### Task 2: Advanced Python (LeetCode)
 
-Includes algorithmic challenges:
+Algorithmic problem-solving using Python:
 
-* **1480:** Running Sum of 1D Array
-* **1470:** Shuffle the Array
-* **1431:** Kids With the Greatest Number of Candies
+* Running Sum of 1D Array (1480)
+* Shuffle the Array (1470)
+* Kids With the Greatest Number of Candies (1431)
+
+---
+
+### Task 3: Exploratory Data Analysis (EDA – Basics)
+
+* Dataset loading and inspection
+* Understanding data types and structure
+* Handling missing values
+* Basic statistical analysis
+* Initial data insights
+
+---
+
+### Task 4: Exploratory Data Analysis (EDA – Advanced)
+
+* Data cleaning and preprocessing
+* Univariate and bivariate analysis
+* Correlation analysis
+* Data visualization
+* Insight extraction and conclusions
 
 ---
 
 ## 🧠 Skills Demonstrated
 
-* Python fundamentals
-* Functions & conditionals
-* Loops (for & while)
-* List operations
-* Input/output handling
-* Problem-solving & algorithmic thinking
-* Writing modular, clean, reusable code
-* Translating logic into efficient Python implementations
+* Python programming
+* Loops and conditionals
+* Functions and modular coding
+* Algorithmic thinking
+* Problem solving
+* Exploratory Data Analysis (EDA)
+* Data cleaning and preprocessing
+* Statistical analysis
+* Data visualization
+* Writing clean and readable code
 
 ---
 
-## 📌 Instructions Followed
+## 📌 Guidelines Followed
 
-* Consistent folder structure for all tasks
-* Code written in a clean, readable, and modular style
-* No plagiarism — all logic rewritten from scratch
-* Tested solutions in Google Colab and local Python
-* Followed exact rules for each assignment (Innomatics + LeetCode formats)
+* Organized and consistent folder structure
+* All code written from scratch (no plagiarism)
+* Clean and readable code and notebooks
+* Tested in local Python environment and Google Colab
+* Followed Innomatics Research Labs task instructions
 
 ---
 
-## ▶️ How to Run Any Program
+## ▶️ How to Run the Code
 
-### **Option A — Using Python on your system**
+### Run Python Files
 
-1. Open a terminal
-2. Navigate to the folder containing the file
-3. Run:
-
-```
+```bash
 python filename.py
 ```
 
----
+### Run Jupyter Notebooks
 
-### **Option B — Running in Google Colab**
+Open `.ipynb` files using:
 
-1. Upload the `.py` file to Colab
-2. Add a cell:
+* Google Colab
+* Jupyter Notebook
+* VS Code
 
-```python
-!python filename.py
-```
-
-3. Run the cell
-
----
-
-### **Option C — Direct Execution in an IDE**
-
-Supported by: VS Code, PyCharm, Jupyter Notebook,#
