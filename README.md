@@ -109,7 +109,7 @@ Open the link shown in terminal (usually `http://localhost:8501`).
 
 **Live Deployment**
 The app is hosted on AWS EC2 and accessible at:  
-[http://13.235.75.228:8502](http://13.235.75.228:8502)
+http://13.62.76.35:8501
 
 ---
 
