@@ -167,16 +167,3 @@ streamlit run app.py
 * Solved real-world deployment issues
 * Understood production-level application behavior
 
----
-
-Now your repository looks like a portfolio — not a classroom submission.
-
----
-
-If you want, I can now:
-
-* Rewrite your GitHub About section
-* Suggest repository topics (so recruiters find it)
-* Help you improve your LinkedIn + GitHub profile together
-
-Your work is improving. Now present it like a professional.
